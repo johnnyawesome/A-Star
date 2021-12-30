@@ -1,4 +1,4 @@
-# A-Star
+# A⭐
 
 The famous [A* / A-Star Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm), implemented in P5JS.
 
