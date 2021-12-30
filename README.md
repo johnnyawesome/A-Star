@@ -1,2 +1,5 @@
 # A-Star
-A* / A-Star Search Algorithm
+
+The famous A* / A-Star Search Algorithm, implemented in P5JS.
+
+
